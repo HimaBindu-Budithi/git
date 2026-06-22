@@ -55,11 +55,13 @@ print(a+b)
 
 [^1]:himabindu budithi
 
-- [ ] optin1
-  
-- [ ] option2
+AWS means
 
-- [ ] option3
+- [X] amazon wed services
+  
+- [ ] amazon wed storages
+
+- [ ] amazon wide storages
 
 
   
