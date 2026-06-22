@@ -64,10 +64,15 @@ AWS means
 - [ ] amazon wide storages
 
 |name|college|department|
+
 |----|-------|
+
 |bindu|bvc|ECE|
+
 |-----|---|
+
 |surya|bvc|ECE|
+
 |-----|---|
 
 
