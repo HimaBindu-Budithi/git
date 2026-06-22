@@ -6,6 +6,8 @@
 ######  header1
 summer online internship repository
 
+budithi[^1]
+
 *himabindu budithi*
 
 **himabindu**
@@ -50,4 +52,8 @@ print(a+b)
 + budithi
 
   -----
+
+[^1]:himabindu
+
+  
 
