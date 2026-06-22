@@ -29,4 +29,6 @@ a=1
 b=2
 print(a+b)
 ```
-[google](https://chatgpt.com/)
+[chatgpt](https://chatgpt.com/)
+
+![chatgpt](https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg)
