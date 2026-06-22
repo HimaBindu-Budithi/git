@@ -63,13 +63,12 @@ AWS means
 
 - [ ] amazon wide storages
 
-|name|college|department|
-|----|-------|
-|bindu|bvc|ECE|
-|----|-------|
-|surya|bvc|ECE|
-|----|-------|
-
+| Name  | College | Department |
+|-------|---------|
+| Bindu | BVC | ECE  |
+|-------|---------|
+| Surya | BVC  | ECE |
+|-------|---------|
 
   
 
