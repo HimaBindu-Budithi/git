@@ -33,19 +33,19 @@ print(a+b)
 
 ![chatgpt](https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg)
 
-##ordered list
+## ordered list
 
-1.budithi
+1. budithi
 
-2.hima
+2. hima
 
-3.bindu
+3. bindu
 
-##unordered list
+## unordered list
 
--bindu
+- bindu
 
--hima
+- hima
 
-+budithi
++ budithi
 
