@@ -65,10 +65,10 @@ AWS means
 
 | Name  | College | Department |
 |-------|---------|
-| Bindu | BVC | ECE  |
-|-------|---------|
+| Bindu | BVC | ECE |
+|-------|-----|
 | Surya | BVC  | ECE |
-|-------|---------|
+|-------|------|
 
   
 
