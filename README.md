@@ -55,11 +55,11 @@ print(a+b)
 
 [^1]:himabindu budithi
 
-- [ ]optin1
+- [ ] optin1
   
-- [ ]option2
+- [ ] option2
 
-- [ ]option3
+- [ ] option3
 
 
   
