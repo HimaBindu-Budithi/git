@@ -57,11 +57,18 @@ print(a+b)
 
 AWS means
 
-- [X] amazon wed services
+- [X] amazon web services
   
-- [ ] amazon wed storages
+- [ ] amazon web storages
 
 - [ ] amazon wide storages
+
+|name|college|department|
+|----|-------|
+|bindu|bvc|ECE|
+|-----|---|
+|surya|bvc|ECE|
+|-----|---|
 
 
   
