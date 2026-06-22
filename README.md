@@ -63,17 +63,9 @@ AWS means
 
 - [ ] amazon wide storages
 
-| Name | College | Department |
-
-|------|---------|
-
-| Bindu | BVC | ECE |
-
-|--------|----|
-
-| Surya | BVC | ECE |
-
-|--------|----|
-
+| Name  | College | Department |
+|-------|---------|------------|
+| Bindu | BVC     | ECE        |
+| Surya | BVC     | ECE        |
   
 
