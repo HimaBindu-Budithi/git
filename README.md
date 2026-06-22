@@ -15,3 +15,5 @@ summer online internship repository
 ~~himabindu~~bindu
 
 h<sub>2</sub>
+
+(a+b)<sup>2</sup>
