@@ -23,3 +23,9 @@ h<sub>2</sub>
 >note: this is important
 
 I am `himabindu`
+
+```
+a=1
+b=2
+print(a+b)
+```
