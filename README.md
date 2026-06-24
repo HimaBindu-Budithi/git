@@ -68,6 +68,5 @@ AWS means
 | Bindu | BVC     | ECE        |
 | Surya | BVC     | ECE        |
 
-hima\
-bindu
+hima\bindu
 
