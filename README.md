@@ -70,5 +70,4 @@ AWS means
 
 :sleeping:
 
-:happy:
 
